@@ -29,6 +29,12 @@
       "name": "Júpiter",
       "type": "Planeta",
       "distanceFromSun": "778.5 millones de km"
+    },
+    {
+      "id": "b8a3",
+      "name": "urano",
+      "type": "planeta",
+      "distanceFromSun": "800 millones km"
     }
   ]
 }
